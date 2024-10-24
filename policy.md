@@ -10,6 +10,7 @@ Session and Appointment Data: Information related to your appointments with coac
 Product Purchases: Data related to items you buy from our store, including shipping and payment details.
 Event Participation: Details about your participation in club events, or activities.
 Usage Data: Information about how you interact with the app, including device information, app usage patterns, and geolocation data if enabled.
+
 2. How We Use Your Information
 We use your information for the following purposes:
 
@@ -18,11 +19,13 @@ To process payments and deliver purchased items.
 To send you updates on upcoming events, promotions, and services related to Alibtisam.
 To personalize your experience and offer tailored recommendations.
 To comply with legal obligations.
+
 3. How We Share Your Information
 We do not share your personal information with third parties, except in the following situations:
 
 Service Providers: We may share data with trusted third-party vendors to process payments, handle delivery, or provide other services on our behalf.
 Legal Requirements: We may disclose your information if required by law or to respond to a valid legal process.
+
 4. Security
 We take reasonable measures to protect your personal information from unauthorized access, alteration, or destruction. However, no security system is completely secure, and we cannot guarantee the absolute safety of your information.
 
